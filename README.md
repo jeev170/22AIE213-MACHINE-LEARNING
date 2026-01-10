@@ -14,7 +14,7 @@ Each assignment is organized into a separate folder for clarity and easy access.
 ```
 22AIE213-MACHINE-LEARNING/
 │
-├── ASSIGNMENT 01/
+├── LAB 01/
 └── ...
 ```
 
