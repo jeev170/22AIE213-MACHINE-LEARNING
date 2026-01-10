@@ -12,7 +12,7 @@ def highest_char(s):
 
 
 s = input("Enter string: ")
-ch, cnt = highest_char(s)
-print("Character:", ch)
-print("Count:", cnt)
+char, count = highest_char(s)
+print("Character:", char)
+print("Count:", count)
 
