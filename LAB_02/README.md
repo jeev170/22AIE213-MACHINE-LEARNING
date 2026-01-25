@@ -62,5 +62,3 @@ python filename.py
 * Identifier attributes (e.g., Record ID) are excluded from similarity computations.
 * Output is displayed in the terminal unless explicitly exported.
 * Some programs generate plots for visualization.
-
-```
