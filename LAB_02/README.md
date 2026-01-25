@@ -1,5 +1,3 @@
-````md
-
 **Course Code:** 22AIE213 – Machine Learning  
 **Lab:** 02  
 **Deadline:** 25/01/2026  
