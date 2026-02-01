@@ -1,6 +1,6 @@
 **Course Code:** 22AIE213 – Machine Learning  
 **Lab:** 03  
-**Deadline:** 25/01/2026  
+**Deadline:** 01/02/2026  
 
 ---
 
@@ -52,35 +52,6 @@ Lab3_Dataset/
 * As per lab instructions, **only two classes (writers)** are selected for classification experiments.
 
 Ensure the correct dataset path is specified in `main.py` before running the program.
-
----
-
-## Experiments Covered
-
-### Mandatory Tasks (A1–A14)
-
-* Image segmentation into vertical strips and blocks
-* Feature extraction using RGB mean and variance from image blocks
-* Vector operations (dot product, Euclidean norm)
-* Statistical analysis (mean, variance, standard deviation)
-* Histogram-based feature distribution analysis
-* Minkowski distance computation (p = 1 to 10)
-* Train–test split for binary classification
-* kNN classifier training and testing (k = 3)
-* Own implementation of kNN classifier
-* Accuracy vs k analysis (k = 1 to 11)
-* Confusion matrix visualization (image form)
-* Performance metrics: Accuracy, Precision, Recall, F1-score
-* Comparison with matrix inversion (linear classifier)
-* Learning outcome inference (underfit / regular fit / overfit)
-
----
-
-## Optional Tasks
-
-* Normal distribution generation and histogram comparison
-* Effect of different distance metrics in kNN (Euclidean, Manhattan, Chebyshev)
-* AUROC curve generation and analysis
 
 ---
 
